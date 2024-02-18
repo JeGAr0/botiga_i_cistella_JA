@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Botiga_i_Cistella")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+74a0c696a7cabc133555847461f7b5ebefffbbed")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9edd751e50335e5ac9e3c42af06c98f83c41d55a")]
 [assembly: System.Reflection.AssemblyProductAttribute("Botiga_i_Cistella")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Botiga_i_Cistella")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
